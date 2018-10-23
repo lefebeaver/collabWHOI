@@ -3,4 +3,5 @@ sample repository for collaborating
 
 this is gonna be awesome.
 
-I love conflict!
+oh no! I'm conflict averse...
+
